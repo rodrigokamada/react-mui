@@ -13,3 +13,11 @@ This tutorial was posted on my [blog]() in portuguese and on the [DEV Community]
 
 
 
+## Prerequisites
+
+
+Before you start, you need to install and configure the tools:
+
+* [git](https://git-scm.com/)
+* [Node.js and npm](https://nodejs.org/)
+* IDE (e.g. [Visual Studio Code](https://code.visualstudio.com/) or [WebStorm](https://www.jetbrains.com/webstorm/))

@@ -1,6 +1,7 @@
 {
   "name": "react-mui",
   "version": "1.0.0",
+  "description": "Application example built with React and adding the Material UI CSS framework using the @mui/material library.",
   "homepage": "https://rodrigokamada.github.io/react-mui/",
   "author": "Rodrigo Kamada <rodrigo@kamada.com.br> (https://github.com/rodrigokamada)",
   "license": "MIT",

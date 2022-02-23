@@ -100,19 +100,13 @@ We suggest that you begin by typing:
 Happy hacking!
 ```
 
-**2.** Install the `@mui/material`, `@mui/icons-material`, `@mui/lab`, `@emotion/react` and `@emotion/styled` libraries.
+**2.** Install the `@mui/material`, `@mui/icons-material`, `@mui/lab`, `@emotion/react`, `@emotion/styled` and `@types/date-fns` libraries.
 
 ```powershell
-npm install @mui/material @mui/icons-material @mui/lab @emotion/react @emotion/styled
+npm install @mui/material @mui/icons-material @mui/lab @emotion/react @emotion/styled @types/date-fns
 ```
 
-**3.** Install the `@types/date-fns` development library.
-
-```powershell
-npm install --save-dev @types/date-fns
-```
-
-**4.** Remove the contents of the `src/App.tsx` file. Add some components as below.
+**3.** Remove the contents of the `src/App.tsx` file. Add some components as below.
 
 ```typescript
 import React from 'react';
@@ -338,7 +332,7 @@ function App() {
 export default App;
 ```
 
-**5.** Run the application with the command below.
+**4.** Run the application with the command below.
 
 ```powershell
 npm start
@@ -373,7 +367,7 @@ modules by path ./src/ 27 KiB
 webpack 5.69.1 compiled successfully in 7201 ms
 ```
 
-**6.** Ready! Access the URL `http://localhost:300/react-mui` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/react-mui/) and [Stackblitz](https://stackblitz.com/edit/react17-mui).
+**5.** Ready! Access the URL `http://localhost:300/react-mui` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/react-mui/) and [Stackblitz](https://stackblitz.com/edit/react17-mui).
 
 ![React Material UI](https://res.cloudinary.com/rodrigokamada/image/upload/v1645616372/Blog/react-mui/react-mui.png)
 

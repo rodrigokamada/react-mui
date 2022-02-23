@@ -1,6 +1,7 @@
 {
   "name": "react-mui",
   "version": "1.0.0",
+  "homepage": "https://rodrigokamada.github.io/react-mui/",
   "author": "Rodrigo Kamada <rodrigo@kamada.com.br> (https://github.com/rodrigokamada)",
   "license": "MIT",
   "private": true,

@@ -368,7 +368,7 @@ modules by path ./src/ 27 KiB
 webpack 5.69.1 compiled successfully in 7201 ms
 ```
 
-**5.** Ready! Access the URL `http://localhost:300/react-mui` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/react-mui/) and [Stackblitz](https://stackblitz.com/edit/react17-mui).
+**5.** Ready! Access the URL `http://localhost:300/react-mui` and check if the application is working. See the application working on [GitHub Pages](https://rodrigokamada.github.io/react-mui/) and [Stackblitz](https://stackblitz.com/edit/react18-mui).
 
 ![React Material UI](https://res.cloudinary.com/rodrigokamada/image/upload/v1645616372/Blog/react-mui/react-mui.png)
 

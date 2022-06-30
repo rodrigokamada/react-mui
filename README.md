@@ -1,7 +1,7 @@
 # React Material UI
 
 
-Application example built with [React](https://reactjs.org/) and adding the [Material UI](https://mui.com/) CSS framework using the [@mui/material](https://www.npmjs.com/package/@mui/material) library.
+Application example built with [React](https://reactjs.org/) 18 and adding the [Material UI](https://mui.com/) CSS framework using the [@mui/material](https://www.npmjs.com/package/@mui/material) library.
 
 This tutorial was posted on my [blog](https://rodrigo.kamada.com.br/blog/adicionando-o-framework-de-css-material-ui-em-uma-aplicacao-react) in portuguese and on the [DEV Community](https://dev.to/rodrigokamada/adding-the-material-ui-css-framework-to-an-react-application-4jkl) in english.
 

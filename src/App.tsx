@@ -186,10 +186,10 @@ function App() {
               <DatePicker
                 label="Example date"
                 value={value}
-                onChange={(newValue) => {
+                onChange={(newValue: any) => {
                   setValue(newValue);
                 }}
-                renderInput={(params) => <TextField {...params} />}
+                renderInput={(params: any) => <TextField {...params} />}
               />
             </LocalizationProvider>
           </div>
